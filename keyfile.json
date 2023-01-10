@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "bclic-371311",
-  "private_key_id": "dfd33ebc2e642bde6fdfd6674c4de2b5c36d7a17",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfW4FSzi3Du/T1\nVzzq/S6IOjDJelq93zBTYgjeF6IGO3ROjALMBE9hOD4YHeAVsYekD1dVrXbF0qt/\nQPCGy+xtu/fL0kAriJPhlh+/yv+TWScSxsrj4QXh0dU2i3N28G9unQIbT4PcLJvU\n0NBSS2OfHPkbNnC5/N/X7yc/U05KgWVBqTPfdWVU6yJd6GCPYnDx3Yo2qYEcDJCb\nCMg6tgeCXa0SAGMzOJoMCBbseG4HdWpNrNVtia7rYefC3BILrCSvxuS5TdNPU8vO\nBwJDZitUM9fdZVpGqACYxGpFNErBzSlBkzqmdYUKXvZNko8lsCYwR2qydK/5sCcl\n3jVHExqBAgMBAAECggEAAK+x6yiXxqgRUb8rwF+YiOHf5ECYXoi85+avVwpczLba\nTcL7n7ecLFTtSOrvlTV7UJdc+fYLXUJ/VSfkjU97WZ94HJPX72JPLQRmctMLe78M\ngg/jD/XxLA9WX8FoMIt+1ijMmLui8LZg4LOnDjet1c9zmwAs8r9aiznwhY7qmMtB\nRYlYuyholqhOpyyPaI7f7DvptrobXHijivY7uCJUbsnpdl5cjW0veaxwfjKZwZ07\nIgLBNbQVzXiGYL1JoPPFUc2uBi0JoCR6HsAtdfqkIXntIFKkagnLv1vJ9G/jrbUE\n8LQlsAZlsP7sUBjEhXxtcPrUbuDhxw+MnibzJMHhaQKBgQDye3FLvcYKu0vZcAHl\nKbbP8KnUxUpcI18EPEHDx1bym5YNdI4+lRiKqJYTJrPcTbgAowECzJohsY75dEx9\ndB3aphws8JQUWknOffdnH3FCN5IyDpn+qMnsUj4fM2A5UjIm/N8ATFz96OGPfqVE\neuMqodX4lPy44+FVkD8/+k55+QKBgQDrzyA1CYMuqF/NzLxEQ8fwUfoXeEYVdULn\nS9WQxpOYU4LQrbgpp4QjRa3eu1Hlg7o9Bi+YNC+VavyZHT9/8mt19faTvJH0HwTj\ncGreKMDO5tkijSRc0T7O9FK6BITxsNLqd3F3T/oPc1cwb8w/YUqcpcaSbShQJXEn\ndMzTB8WGyQKBgCu35e1qAdLdggdqEm1m3/cNxRD/oTCLkA4LbzAFOL/1HVC/uwW9\ni/cz/hrl13fY61vyB7ShfwikIssHFONplBhf6qSPm6MvxC7et0R4fssZidpMl6c6\nd22MRncJpEexcillXi+HlRySaFie1N1L6rk9BH8VHZuYOoBayYyXbJ7BAoGAC1zh\numyI67ilVS9mawuxGL16haMADYym+qpG0kEfX5m2lgOo+ijeTyzOYgs4uQyN7t7b\ncEQjftm27lHge3PdBcQia6AMkGzmOWdzXt0r3Ux2bhnLBMX4dtSDH/+TwGm64B19\nVDiAXjo6m1TnzK4NgFrkpK2p4aLMPxB7xjd7pzECgYEA2ykUFubq2hwElMQcRT/5\nh46TTSjcIYRe+lteqMl7rOisLryyGPlscrSx+1MeqLll9xk1CwSMA4hBYiAefueq\nK6D3GapE299i/M96B8LmR0FC+RMP+vU24PqxEca6uji7CWFxRVjFax7eqMD1zWKD\ns6Rs84QbId0bSPUwIXFhhP0=\n-----END PRIVATE KEY-----\n",
-  "client_email": "betcliciam@bclic-371311.iam.gserviceaccount.com",
-  "client_id": "115164347332224883879",
+  "project_id": "bclic",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
+  "client_email": "betclic@bclic.iam.gserviceaccount.com",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/betcliciam%40bclic-371311.iam.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/.iam.gserviceaccount.com"
 }
